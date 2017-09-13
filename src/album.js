@@ -1,3 +1,5 @@
+/* global fetch */
+
 import { API_URL } from './config';
 import { toJSON } from './utils';
 
