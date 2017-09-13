@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/dexfs/spotify-wrapper.svg?branch=master)](https://travis-ci.org/dexfs/spotify-wrapper)
 
+[![Coverage Status](https://coveralls.io/repos/github/dexfs/spotify-wrapper/badge.svg?branch=master)](https://coveralls.io/github/dexfs/spotify-wrapper?branch=master)
+
 A wrapper to work with the [Spotify Web API](https://developer.spotify.com/web-api/)
 
 ## Getting Started
